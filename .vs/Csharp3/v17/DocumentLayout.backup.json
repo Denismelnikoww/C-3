@@ -46,21 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DotaHeroManager.cs",
-              "DocumentMoniker": "D:\\Projects\\Csharp3\\Csharp3\\DotaHeroManager.cs",
-              "RelativeDocumentMoniker": "Csharp3\\DotaHeroManager.cs",
-              "ToolTip": "D:\\Projects\\Csharp3\\Csharp3\\DotaHeroManager.cs*",
-              "RelativeToolTip": "Csharp3\\DotaHeroManager.cs*",
-              "ViewState": "AgIAAAsCAAAAAAAAAIAzwBsCAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T23:25:06.392Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -95,6 +82,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DotaHeroManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Csharp3\\Csharp3\\DotaHeroManager.cs",
+              "RelativeDocumentMoniker": "Csharp3\\DotaHeroManager.cs",
+              "ToolTip": "D:\\Projects\\Csharp3\\Csharp3\\DotaHeroManager.cs",
+              "RelativeToolTip": "Csharp3\\DotaHeroManager.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAswJoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:25:06.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "CWrite.csproj",
               "DocumentMoniker": "D:\\Projects\\Csharp3\\CWrite\\CWrite.csproj",
@@ -115,8 +115,7 @@
               "RelativeToolTip": "Csharp3\\Dota.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAtwBQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T21:16:25.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T21:16:25.832Z"
             },
             {
               "$type": "Document",
@@ -128,8 +127,7 @@
               "RelativeToolTip": "CWrite\\ConsoleHelper.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAnwEcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T21:10:51.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T21:10:51.935Z"
             },
             {
               "$type": "Document",
@@ -153,8 +151,7 @@
               "RelativeToolTip": "MiniJsonSerializerLibrary\\MiniJsonSerializer.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T20:29:50.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T20:29:50.53Z"
             },
             {
               "$type": "Document",
@@ -178,8 +175,7 @@
               "RelativeToolTip": "Csharp3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T20:22:55.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T20:22:55.42Z"
             },
             {
               "$type": "Document",

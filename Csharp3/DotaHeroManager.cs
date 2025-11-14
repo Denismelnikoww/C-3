@@ -148,6 +148,12 @@ public class DotaHeroManager
 
         var name = _console.ReadString("Введите имя героя: ");
 
+        if (_heroes.Any(h => h.Name == name))
+        {
+            _console.WriteColoredLine($"{name} УЖЕ СУЩЕСТВУЕТ!", _console.ErrorColor);
+            return;
+        }
+
         var hero = new DotaHero
         {
             Name = name,
@@ -169,7 +175,6 @@ public class DotaHeroManager
         _heroes.Add(hero);
 
         _console.WriteColoredLine($"Герой '{name}' успешно добавлен!", ConsoleColor.Green);
-        _console.Pause();
     }
 
     private void EditHero()

@@ -18,3 +18,4 @@ D:\Projects\Csharp3\Csharp3\obj\Debug\net8.0\Csharp3.genruntimeconfig.cache
 D:\Projects\Csharp3\Csharp3\obj\Debug\net8.0\ref\Csharp3.dll
 D:\Projects\Csharp3\Csharp3\bin\Debug\net8.0\CWrite.dll
 D:\Projects\Csharp3\Csharp3\bin\Debug\net8.0\CWrite.pdb
+D:\Projects\Csharp3\Csharp3\obj\Debug\net8.0\Csharp3.sourcelink.json
