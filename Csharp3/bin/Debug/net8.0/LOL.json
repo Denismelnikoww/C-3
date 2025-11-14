@@ -1,0 +1,137 @@
+// Hoodwink
+{
+  "hero_name": "Hoodwink",
+  "primary_attribute": "Agility",
+  "complexity": "Moderate",
+  "roles": "Support, Nuker, Disabler, Escape",
+  "я не придумал название": {
+    "я": "не",
+    "придумал": 15,
+    "че": true,
+    "тут": "2023-11-15",
+    "написать": ":)"
+  },
+  "attack_range": 475,
+  "attack_rate": 1,7,
+  "move_speed": 310,
+  "current_level": 15,
+  "current_health": 980,
+  "current_mana": 650,
+  "gold": 2450,
+  "abilities": [
+    {
+      "ability_name": "Acorn Shot",
+      "mana_cost": [
+        70,
+        80,
+        90,
+        100
+      ],
+      "cooldown": [
+        18,
+        16,
+        14,
+        12
+      ],
+      "description": "Fires an acorn at the target unit. The acorn bounces to nearby targets, dealing damage and applying a slow."
+    },
+    {
+      "ability_name": "Bushwhack",
+      "mana_cost": [
+        100,
+        110,
+        120,
+        130
+      ],
+      "cooldown": [
+        12,
+        11,
+        10,
+        9
+      ],
+      "description": "Sets a trap that stuns enemy heroes after a short delay. Deals damage and reveals the area."
+    },
+    {
+      "ability_name": "Scurry",
+      "mana_cost": [
+        60,
+        50,
+        40,
+        30
+      ],
+      "cooldown": [
+        22,
+        20,
+        18,
+        16
+      ],
+      "description": "Hoodwink gains bonus movement speed and phased movement. Passing near trees refreshes the duration."
+    },
+    {
+      "ability_name": "Sharpshooter",
+      "mana_cost": [
+        125,
+        175,
+        225
+      ],
+      "cooldown": [
+        40,
+        35,
+        30
+      ],
+      "description": "Channels a powerful shot that deals heavy damage and applies a strong slow. Damage increases with channel time."
+    }
+  ],
+  "ability_points_available": 1,
+  "inventory": [
+    {
+      "item_name": "Gleipnir",
+      "cost": 6150,
+      "in_backpack": false,
+      "charges": null,
+      "cooldown_remaining": 0
+    },
+    {
+      "item_name": "Dragon Lance",
+      "cost": 1900,
+      "in_backpack": false,
+      "charges": null,
+      "cooldown_remaining": 0
+    },
+    {
+      "item_name": "Power Treads",
+      "cost": 1400,
+      "in_backpack": false,
+      "charges": null,
+      "cooldown_remaining": 0
+    },
+    {
+      "item_name": "Magic Wand",
+      "cost": 450,
+      "in_backpack": false,
+      "charges": 17,
+      "cooldown_remaining": 0
+    },
+    {
+      "item_name": "Town Portal Scroll",
+      "cost": 100,
+      "in_backpack": false,
+      "charges": 1,
+      "cooldown_remaining": 0
+    }
+  ],
+  "neutral_item": {
+    "item_name": "Quickening Charm",
+    "cost": 0,
+    "in_backpack": false,
+    "charges": null,
+    "cooldown_remaining": 0
+  },
+  "match_stats": {
+    "kills": 7,
+    "deaths": 4,
+    "assists": 18
+  },
+  "lore": "Белочка"
+}
+

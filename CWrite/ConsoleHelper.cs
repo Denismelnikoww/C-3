@@ -3,7 +3,7 @@
 
     public class ConsoleHelper
     {
-        public string ConsoleTitle { get; set; } = "Лабораторная работа 1";
+        public string ConsoleTitle { get; set; } = "Лабораторная работа 3";
         public ConsoleColor TextColor { get; set; } = ConsoleColor.White;
         public ConsoleColor HighlightColor { get; set; } = ConsoleColor.Magenta;
         public ConsoleColor ErrorColor { get; set; } = ConsoleColor.Red;
@@ -92,6 +92,25 @@
                     return result;
                 }
                 WriteColoredLine($"Ошибка! Введите число от {min} до {max}", ErrorColor);
+            }
+        }
+
+        public bool ReadBool(string text)
+        {
+            while (true)
+            {
+                WriteColored(text, TextColor);
+                string input = Console.ReadLine()?.Trim().ToLower() ?? "";
+
+                if (input == "y" || input == "yes" || input == "1" || input == "true")
+                {
+                    return true;
+                }
+                else if (input == "n" || input == "no" || input == "0" || input == "false")
+                {
+                    return false;
+                }
+                WriteColoredLine("Ошибка! Введите 'y' для да или 'n' для нет", ErrorColor);
             }
         }
 

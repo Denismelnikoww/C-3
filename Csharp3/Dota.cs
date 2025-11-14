@@ -100,6 +100,8 @@ namespace DotaNamespace
         [JsonName("roles")]
         public HeroRole Roles { get; set; }
 
+        [JsonName("я не придумал название")]
+        public Dictionary<string, object> CustomAttributes { get; set; } = new Dictionary<string, object>();
 
         [JsonName("attack_range")]
         public int AttackRange { get; set; }
@@ -246,6 +248,15 @@ namespace DotaNamespace
                     Kills = 7,
                     Deaths = 4,
                     Assists = 18,
+                },
+
+                CustomAttributes = new Dictionary<string, object>
+                {
+                    ["я"] = "не",
+                    ["придумал"] = 15,
+                    ["че"] = true,
+                    ["тут"] = "2023-11-15",
+                    ["написать"] = ":)"
                 },
 
                 Lore = "Белочка"
