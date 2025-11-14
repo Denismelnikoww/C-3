@@ -1,0 +1,11 @@
+D:\Projects\Csharp3\MiniJsonSerializerLibrary\bin\Debug\net8.0\MiniJsonSerializerLibrary.deps.json
+D:\Projects\Csharp3\MiniJsonSerializerLibrary\bin\Debug\net8.0\MiniJsonSerializerLibrary.dll
+D:\Projects\Csharp3\MiniJsonSerializerLibrary\bin\Debug\net8.0\MiniJsonSerializerLibrary.pdb
+D:\Projects\Csharp3\MiniJsonSerializerLibrary\obj\Debug\net8.0\MiniJsonSerializerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Csharp3\MiniJsonSerializerLibrary\obj\Debug\net8.0\MiniJsonSerializerLibrary.AssemblyInfoInputs.cache
+D:\Projects\Csharp3\MiniJsonSerializerLibrary\obj\Debug\net8.0\MiniJsonSerializerLibrary.AssemblyInfo.cs
+D:\Projects\Csharp3\MiniJsonSerializerLibrary\obj\Debug\net8.0\MiniJsonSerializerLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp3\MiniJsonSerializerLibrary\obj\Debug\net8.0\MiniJsonSerializerLibrary.dll
+D:\Projects\Csharp3\MiniJsonSerializerLibrary\obj\Debug\net8.0\refint\MiniJsonSerializerLibrary.dll
+D:\Projects\Csharp3\MiniJsonSerializerLibrary\obj\Debug\net8.0\MiniJsonSerializerLibrary.pdb
+D:\Projects\Csharp3\MiniJsonSerializerLibrary\obj\Debug\net8.0\ref\MiniJsonSerializerLibrary.dll

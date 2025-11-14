@@ -1,0 +1,11 @@
+D:\Projects\Csharp3\CWrite\bin\Debug\net8.0\CWrite.deps.json
+D:\Projects\Csharp3\CWrite\bin\Debug\net8.0\CWrite.dll
+D:\Projects\Csharp3\CWrite\bin\Debug\net8.0\CWrite.pdb
+D:\Projects\Csharp3\CWrite\obj\Debug\net8.0\CWrite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Csharp3\CWrite\obj\Debug\net8.0\CWrite.AssemblyInfoInputs.cache
+D:\Projects\Csharp3\CWrite\obj\Debug\net8.0\CWrite.AssemblyInfo.cs
+D:\Projects\Csharp3\CWrite\obj\Debug\net8.0\CWrite.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp3\CWrite\obj\Debug\net8.0\CWrite.dll
+D:\Projects\Csharp3\CWrite\obj\Debug\net8.0\refint\CWrite.dll
+D:\Projects\Csharp3\CWrite\obj\Debug\net8.0\CWrite.pdb
+D:\Projects\Csharp3\CWrite\obj\Debug\net8.0\ref\CWrite.dll
